@@ -16,7 +16,7 @@ Snipe-IT is actively developed and we [release quite frequently](https://github.
 
 -----
 
-### Table of Contents
+### Table of Contents - 
 * [Installation](#installation)
 * [User's Manual](#users-manual)
 * [Bug Reports & Feature Requests](#bug-reports--feature-requests)
